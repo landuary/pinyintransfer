@@ -14,6 +14,11 @@
             <artifactId>pinyin4j</artifactId>
             <version>2.5.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.72_noneautotype</version>
+        </dependency>
     </dependencies>
 
     <build>
